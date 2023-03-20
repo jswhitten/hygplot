@@ -15,7 +15,7 @@ To install [Program Name], please follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/yourreponame.git
+git clone [https://github.com/jswhitten/hygplot.git](https://github.com/jswhitten/hygplot.git)
 
 2. Create a virtual environment and activate it:
 
