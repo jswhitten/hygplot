@@ -26,9 +26,6 @@ source venv/bin/activate # On Windows, use "venv\Scripts\activate"
 
 pip install -r requirements.txt
 
-markdown
-Copy code
-
 4. Run the program:
 
 python main.py
